@@ -1,0 +1,16 @@
+{
+    "icon": "community",
+    "color": "#B209B2",
+    "fields": [
+        "name"
+    ],
+    "geometry": [
+        "point",
+		"area"
+    ],
+    "tags": {
+        "place": "village"
+    },
+    "terms":["village"],
+    "name": "Community"
+}

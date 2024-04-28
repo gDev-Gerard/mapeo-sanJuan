@@ -1,0 +1,9 @@
+{
+    "icon": "ignacio_contenedor",
+    "color": "#AAAAAA",
+    "fields": ["name", "utiles", "defectos", "facilidades"],
+    "geometry": ["point"],
+    "tags": {"place":"village"},
+    "terms":["village", "contenedor"],
+    "name": "ignacio_contenedor"
+}

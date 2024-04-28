@@ -1,0 +1,9 @@
+{
+    "icon": "ignacio_noArboles",
+    "color": "#AAAAAA",
+    "fields": ["name", "vegetacion", "defectos"],
+    "geometry": ["point"],
+    "tags": {"place":"village"},
+    "terms":["village", "arboles"],
+    "name": "ignacio_noArboles"
+}

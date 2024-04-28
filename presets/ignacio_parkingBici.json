@@ -1,0 +1,9 @@
+{
+    "icon": "ignacio_parkingBici",
+    "color": "#AAAAAA",
+    "fields": ["name", "utiles", "defectos", "facilidades"],
+    "geometry": ["point"],
+    "tags": {"place":"village"},
+    "terms":["village", "parkingBici"],
+    "name": "ignacio_parkingBici"
+}

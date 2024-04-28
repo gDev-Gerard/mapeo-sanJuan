@@ -1,0 +1,9 @@
+{
+    "icon": "ignacio_escombreraDescontrol",
+    "color": "#AAAAAA",
+    "fields": ["name", "obstaculos", "defectos"],
+    "geometry": ["point"],
+    "tags": {"place":"village"},
+    "terms":["village", "escombrera"],
+    "name": "ignacio_escombreraDescontrol"
+}

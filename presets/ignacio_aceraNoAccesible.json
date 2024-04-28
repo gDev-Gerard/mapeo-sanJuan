@@ -1,0 +1,9 @@
+{
+    "icon": "ignacio_aceraNoAccesible",
+    "color": "#AAAAAA",
+    "fields": ["name", "obstaculos"],
+    "geometry": ["point"],
+    "tags": {"place":"village"},
+    "terms":["village"],
+    "name": "ignacio_aceraNoAccesible"
+}

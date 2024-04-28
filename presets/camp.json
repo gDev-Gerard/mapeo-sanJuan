@@ -1,0 +1,17 @@
+{
+    "icon": "camp",
+    "color": "#B209B2",
+    "fields": [
+        "owner"
+    ],
+    "geometry": [
+        "point"
+
+    ],
+    "tags": {
+        "type" : "camp"
+
+    },
+    "terms":["campsite", "camping", "hunting"],
+    "name": "Camp"
+}

@@ -1,0 +1,9 @@
+{
+    "icon": "ignacio_alcorque",
+    "color": "#AAAAAA",
+    "fields": ["name", "obstaculos", "defectos"],
+    "geometry": ["point"],
+    "tags": {"place":"village"},
+    "terms":["village", "alcorques"],
+    "name": "ignacio_alcorque"
+}

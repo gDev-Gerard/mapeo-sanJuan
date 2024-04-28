@@ -1,0 +1,17 @@
+{
+    "icon": "path",
+    "color": "#B209B2",
+    "fields": [
+        "type"
+    ],
+    "geometry": [
+        "point",
+		"line"
+    ],
+    "tags": {
+"type" : "highway",
+"highway" : "footway"
+    },
+    "terms":[""],
+    "name": "Path"
+}
